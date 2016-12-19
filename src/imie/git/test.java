@@ -7,5 +7,7 @@ public class test {
 	protected int idtoto;
 	protected int toto2;
 
-
+	public test (){
+	System.out.println("coucou");
+	}
 }
