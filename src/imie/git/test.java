@@ -8,6 +8,6 @@ public class test {
 	protected int toto2;
 
 	public test (){
-	System.out.println("coucou");
+	System.out.println("coucou les commiters ");
 	}
 }
